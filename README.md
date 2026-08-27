@@ -1,2 +1,2 @@
 # IC-2K25-17-DBMS_ARUN_TIWARI
-#.sql files
+#.sql_files
