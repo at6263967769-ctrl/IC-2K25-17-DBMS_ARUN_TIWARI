@@ -8,7 +8,7 @@ Query OK, 0 rows affected (0.11 sec)
 
 mysql> show tables;
 +--------------------+
-| Tables_in_ajaydbms |
+| Tables_in_arundbms |
 +--------------------+
 | employee           |
 +--------------------+
