@@ -12,7 +12,7 @@ Welcome to the **DBMS Lab Coursework Repository** for **IC-2K25 (Batch 2025, Rol
 | :--- | :--- |
 | **Name** | Arun Tiwari |
 | **Roll Number** | IC-2K25-17 |
-| **Course** | Integrated MCA / Computer Science (IC-2K25) |
+| **Course** | Integrated MCA / Computer Science (IC-2K25-17) |
 | **Subject** | Database Management Systems (DBMS) Lab |
 | **Database Engine** | MySQL Server 8.0+ |
 | **GitHub Profile** | [@at6263967769-ctrl](https://github.com/at6263967769-ctrl) |
