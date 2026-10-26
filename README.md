@@ -169,4 +169,4 @@ mysql -u root -p arundbms < Assignment-1/lab1que1.sql
 
 **Arun Tiwari**  
 - **GitHub**: [@at6263967769-ctrl](https://github.com/at6263967769-ctrl)  
-- **Batch**: IC-2K25 (Roll No: 17)
+- **Batch**: IC-2K25-17 (Roll No: 17)
